@@ -1,0 +1,26 @@
+# Dafny
+*.dll
+*.exe
+*.pdb
+*-py/
+*-java/
+*-js/
+*-go/
+*-cs/
+*.doo
+
+# Build artifacts
+bin/
+obj/
+build/
+out/
+
+# IDE
+.idea/
+*.suo
+*.user
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
